@@ -1,0 +1,6 @@
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+*.log
+*.csv  # If you don't want large data files in GitHub
+
